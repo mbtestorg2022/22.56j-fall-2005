@@ -19,30 +19,323 @@ Phelps, Michael E. _PET: Molecular Imaging and Its Biological Applications_. New
 Readings by Session
 -------------------
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Overview of Imaging  {{< br >}}  {{< br >}}Imaging Radiation | Bushberg. Chapters 1-2. |
-| 2 | Interactions of Radiation with Matter | Bushberg. Chapter 3. |
-| 3 | X-ray Generation and Planar Imaging | Bushberg. Chapter 5-6. |
-| 4 | X-ray CT Overview | Bushberg. Chapter 13. |
-| 5 | Fourier Transforms and Convolution | Cho, et al. Chapter 2.1. |
-| 6 | Central Slice Theorem and Projection/Reconstruction | Cho, et al. Chapter 3. |
-| 7 | Class Demo: X-ray CT |  |
-| 8 | Application: Quantitative Anatomy from CT | Class handout |
-| 9 | Tracers for Nuclear Imaging | Bushberg. Chapters 18-19. |
-| 10 | Nuclear Imaging Detectors and Cameras | Bushberg. Chapters 20-21. |
-| 11 | Principles of PET and SPECT | Bushberg. Chapters 22. |
-| 12 | Application: Binding Measurements with PET | Phelps. Chapter 2. |
-| 13 | Application: Functional Imaging using FDG Uptake | Phelps. Chapter 7. |
-| 14 | Nuclear Magnetic Resonance Physics I | Bushberg. Chapter 14. |
-| 15 | Nuclear Magnetic Resonance Physics II | Bushberg. Chapter 14. |
-| 16 | Magnetic Resonance Imaging I | Bushberg. Chapter 15. |
-| 17 | Magnetic Resonance Imaging II | Bushberg. Chapter 15. |
-| 18 | MRI Contrast Agents | Lauffer review |
-| 19 | Application: BOLD Effect in Functional MRI | Class handout |
-| 20 | Application: Neural Fiber Tracking with MRI | Class handout |
-| 21 | Class Demo: MRI |  |
-| 22 | Diffuse Optical Tomography I | Class handout |
-| 23 | Diffuse Optical Tomography II | Class handout |
-| 24 | Optical Molecular Imaging | Class handout |
-| 25 | Final Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of Imaging  
+  
+Imaging Radiation
+{{< tdclose >}}
+{{< tdopen >}}
+Bushberg. Chapters 1-2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Interactions of Radiation with Matter
+{{< tdclose >}}
+{{< tdopen >}}
+Bushberg. Chapter 3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+X-ray Generation and Planar Imaging
+{{< tdclose >}}
+{{< tdopen >}}
+Bushberg. Chapter 5-6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+X-ray CT Overview
+{{< tdclose >}}
+{{< tdopen >}}
+Bushberg. Chapter 13.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Fourier Transforms and Convolution
+{{< tdclose >}}
+{{< tdopen >}}
+Cho, et al. Chapter 2.1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Central Slice Theorem and Projection/Reconstruction
+{{< tdclose >}}
+{{< tdopen >}}
+Cho, et al. Chapter 3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Class Demo: X-ray CT
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Application: Quantitative Anatomy from CT
+{{< tdclose >}}
+{{< tdopen >}}
+Class handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Tracers for Nuclear Imaging
+{{< tdclose >}}
+{{< tdopen >}}
+Bushberg. Chapters 18-19.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Imaging Detectors and Cameras
+{{< tdclose >}}
+{{< tdopen >}}
+Bushberg. Chapters 20-21.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Principles of PET and SPECT
+{{< tdclose >}}
+{{< tdopen >}}
+Bushberg. Chapters 22.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Application: Binding Measurements with PET
+{{< tdclose >}}
+{{< tdopen >}}
+Phelps. Chapter 2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Application: Functional Imaging using FDG Uptake
+{{< tdclose >}}
+{{< tdopen >}}
+Phelps. Chapter 7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Magnetic Resonance Physics I
+{{< tdclose >}}
+{{< tdopen >}}
+Bushberg. Chapter 14.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Magnetic Resonance Physics II
+{{< tdclose >}}
+{{< tdopen >}}
+Bushberg. Chapter 14.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic Resonance Imaging I
+{{< tdclose >}}
+{{< tdopen >}}
+Bushberg. Chapter 15.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic Resonance Imaging II
+{{< tdclose >}}
+{{< tdopen >}}
+Bushberg. Chapter 15.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+MRI Contrast Agents
+{{< tdclose >}}
+{{< tdopen >}}
+Lauffer review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Application: BOLD Effect in Functional MRI
+{{< tdclose >}}
+{{< tdopen >}}
+Class handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Application: Neural Fiber Tracking with MRI
+{{< tdclose >}}
+{{< tdopen >}}
+Class handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Class Demo: MRI
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Diffuse Optical Tomography I
+{{< tdclose >}}
+{{< tdopen >}}
+Class handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Diffuse Optical Tomography II
+{{< tdclose >}}
+{{< tdopen >}}
+Class handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Optical Molecular Imaging
+{{< tdclose >}}
+{{< tdopen >}}
+Class handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
